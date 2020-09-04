@@ -35,5 +35,7 @@ public class NewMain {
         operacoes.q8();
         operacoes.q9();
         operacoes.q10();
+        
+        //fim
     }
 }
