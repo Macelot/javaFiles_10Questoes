@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.empresa.telaaula4;
+package br.com.empresa.aula04;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
+import javax.swing.JOptionPane;
 
 /**
  *
@@ -34,7 +35,5 @@ public class NewMain {
         operacoes.q8();
         operacoes.q9();
         operacoes.q10();
-
     }
-    
 }
